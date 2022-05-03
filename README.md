@@ -1,7 +1,5 @@
-<p align="center"># ARTIC DOWNLOAD</p>
 # ARTIC_DOWNLOAD
 
-<p align="right">text</p>
 - Releases bölümünden yayınlanan en son sürümü indirip çalıştırmanız yeterli olacaktır.
 
 LeftClicker - RightClicker - AutoRod - ClickperRod - AutoBlockHit - Jitter - Wtap - Chams - Esp - Tracers - NameTags - Aimbot - TriggerBot -  JitterBridge - Scaffold - Vanilla Speed 
