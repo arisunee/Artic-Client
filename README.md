@@ -1,5 +1,5 @@
 <p align="center">
-# ARTIC_DOWNLOAD
+**ARTIC_DOWNLOAD**
 </p>
 - Releases bölümünden yayınlanan en son sürümü indirip çalıştırmanız yeterli olacaktır.
 
