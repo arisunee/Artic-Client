@@ -1,4 +1,4 @@
-## Rylina Client 
+## Artic Client 
 Artic is a free hacked client for RiseClient and SonOyuncu Client. With our software, you will be unfair advantage to other players.
 
 ## Download:
