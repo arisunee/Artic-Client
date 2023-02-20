@@ -6,15 +6,14 @@ You can download the software [here](https://github.com/Artic/Artic/releases). \
 
 ## Features in the Software:
 Left & Right Clicker \
+AimAssist - Aimbot \
 Autorod \
 Click per rod \
-W-TAP \
-Spammer \
-Scaffold \
-Jitter Bridge \
-Jitter & Jitter Sounds \
-Toggle Sounds \
-Teleport \
+Scaffold - Eagle \
+Esp \
+ChestEsp \
+Tracers \
+IRC \
 and many features in this software!
 
 ## Issues
