@@ -2,7 +2,7 @@
 Artic is a free hacked client for RiseClient and SonOyuncu Client. With our software, you will be unfair advantage to other players.
 
 ## Download:
-You can download the software [here](https://github.com/Arisunecik/ARTIC_DOWNLOAD/releases/tag/Artic_Release). \
+You can download the software [here](https://github.com/Arisunecik/Artic-Client/releases/tag/Artic_Release). \
 
 ## Features in the Software:
 Left & Right Clicker \
